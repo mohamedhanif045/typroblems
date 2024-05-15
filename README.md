@@ -27,7 +27,9 @@ Copy Code
 A
 Please note that the code can be further optimized for readability and maintainability.
 
+##
 #/Net Salary Calculator Readme###
+##
 Overview
 The Net Salary Calculator program helps individuals calculate their net salary. It considers basic salary and benefits to determine payee (tax), NHIF deductions, NSSF deductions, gross salary, and net salary.
 
